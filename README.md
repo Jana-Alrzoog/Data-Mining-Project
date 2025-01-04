@@ -4,13 +4,6 @@
 
 This project is part of a data mining course where we aim to analyze and predict employee attrition (whether employees leave the company or stay) using real-world data. The dataset we selected for this project is the **IBM HR Analytics Employee Attrition Dataset**, which contains various attributes related to employees such as age, job role, monthly income, and work-life balance.
 
-## Students' Names
-
-- **جنى الرزوق** (Team Leader) - 444201157
-- **ليان الماضي** - 444200809
-- **ريما العشيوي** - 444200709
-- **علياء الذبياني** - 444200973
-- **ريما الكريديس** - 444200838
 
 ## Project Motivation
 
