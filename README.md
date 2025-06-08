@@ -1,12 +1,5 @@
 <h1 align="center">📊 IBM HR Analytics - Employee Attrition</h1>
 
-<p align="center">
-  An end-to-end data mining project analyzing employee attrition using real-world HR data from IBM.
-</p>
-
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:800/format:webp/1*iErTzbn9p5ChCNmJcS3SSg.png" width="600"/>
-</p>
 
 ---
 
@@ -58,17 +51,6 @@ By applying machine learning and data mining techniques, businesses can:
 
 ---
 
-## 📈 Sample Visualizations
-
-<p align="center">
-  <img src="https://i.imgur.com/YG8F20r.png" width="600"/>
-</p>
-
-<p align="center">
-  <i>Top factors contributing to employee attrition based on the analysis</i>
-</p>
-
----
 
 ## 🔍 Key Insights
 
