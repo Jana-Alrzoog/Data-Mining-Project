@@ -61,7 +61,7 @@ By applying machine learning and data mining techniques, businesses can:
 ## 📈 Sample Visualizations
 
 <p align="center">
-  <img src="images/attrition_factors.png" width="600"/>
+  <img src="https://i.imgur.com/YG8F20r.png" width="600"/>
 </p>
 
 <p align="center">
@@ -102,12 +102,13 @@ By applying machine learning and data mining techniques, businesses can:
 
 ## ✅ Conclusion
 
-This project showcased how data mining can be applied to real business problems.
+This project showcased how data mining can be applied to real business problems.  
 With proper data and machine learning, organizations can:
 - Identify early warning signs of employee departure
 - Reduce HR-related costs
 - Foster a better work culture
 
 📌 **Recommendation:** Focus on improving employee satisfaction and reducing overtime for better retention.
+
 
 
