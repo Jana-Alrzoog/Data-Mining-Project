@@ -70,15 +70,6 @@ By applying machine learning and data mining techniques, businesses can:
 | Random Forest        | 89%      |
 | K-Means Clustering   | Used for exploratory groupings |
 
----
-
-## 📂 Project Structure
-
-| File/Folder           | Description                              |
-|-----------------------|------------------------------------------|
-| `Report.ipynb`        | Jupyter notebook with full code + output |
-| `README.md`           | Project summary and documentation        |
-| `images/`             | Folder for plots and visual outputs      |
 
 ---
 
