@@ -1,5 +1,5 @@
 <h1 align="center">📊 IBM HR Analytics - Employee Attrition</h1>
-<img width="500" height="500" alt="image" align="center" src="https://github.com/user-attachments/assets/97e80dc0-8a07-4621-9ed3-5c0904bef6b1" />
+<img width="680" height="443" alt="image" src="https://github.com/user-attachments/assets/01c33b80-848a-4a17-ab95-9c513af76d58" />
 
 
 ---
